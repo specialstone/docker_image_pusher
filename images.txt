@@ -1,6 +1,21 @@
-nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+halohub/halo:latest
+nginx
+jeessy/ddns-go:latest
+ddsderek/easyimage:latest
+corentinth/it-tools:latest
+surveyking/surveyking:latest
+wcjiang/linux-command:latest
+frooodle/s-pdf:latest
+louislam/uptime-kuma:latest
+wordpress:latest
+mysql:8.0
+redis:alpine
+docker.umami.dev/umami-software/umami:postgresql-latest
+postgres:15-alpine
+vaultwarden/server:latest
+yourls
