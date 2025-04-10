@@ -19,3 +19,5 @@ docker.umami.dev/umami-software/umami:postgresql-latest
 postgres:15-alpine
 vaultwarden/server:latest
 yourls
+
+nezha/panel:latest
