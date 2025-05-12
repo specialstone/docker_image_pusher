@@ -21,3 +21,6 @@ vaultwarden/server:latest
 yourls
 
 ghcr.io/naiba/nezha-dashboard:latest
+
+ghcr.io/requarks/wiki:2
+postgres:14
