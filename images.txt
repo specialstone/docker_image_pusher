@@ -24,3 +24,4 @@ ghcr.io/naiba/nezha-dashboard:latest
 
 ghcr.io/requarks/wiki:2
 postgres:14
+ghcr.io/flannel-io/flannel:v0.26.7
