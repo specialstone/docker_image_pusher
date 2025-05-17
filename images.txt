@@ -28,3 +28,5 @@ postgres:14
 ghcr.io/flannel-io/flannel:v0.26.7
 registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 docker.io/kubesphere/whizard-telemetry-apiserver:v1.2.2
+docker.io/eipwork/etcd-host:3.4.16-2
+docker.io/eipwork/kuboard:v3
