@@ -16,6 +16,7 @@ louislam/uptime-kuma:latest
 wordpress:latest
 mysql:8.0
 mysql:8.0.31
+mysql:8.0.42
 redis:alpine
 docker.umami.dev/umami-software/umami:postgresql-latest
 postgres:15-alpine
