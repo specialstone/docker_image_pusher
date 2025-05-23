@@ -4,6 +4,7 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 halohub/halo:latest
+halohub/halo:2.20
 nginx
 jeessy/ddns-go:latest
 ddsderek/easyimage:latest
@@ -14,6 +15,7 @@ frooodle/s-pdf:latest
 louislam/uptime-kuma:latest
 wordpress:latest
 mysql:8.0
+mysql:8.0.31
 redis:alpine
 docker.umami.dev/umami-software/umami:postgresql-latest
 postgres:15-alpine
